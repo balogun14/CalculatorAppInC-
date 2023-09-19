@@ -1,0 +1,15 @@
+/home/awwal/Desktop/C#_Projects/CalculatorApp/bin/Debug/net6.0/CalculatorApp
+/home/awwal/Desktop/C#_Projects/CalculatorApp/bin/Debug/net6.0/CalculatorApp.deps.json
+/home/awwal/Desktop/C#_Projects/CalculatorApp/bin/Debug/net6.0/CalculatorApp.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/CalculatorApp/bin/Debug/net6.0/CalculatorApp.dll
+/home/awwal/Desktop/C#_Projects/CalculatorApp/bin/Debug/net6.0/CalculatorApp.pdb
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.csproj.AssemblyReference.cache
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.dll
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/refint/CalculatorApp.dll
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.pdb
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/CalculatorApp.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/CalculatorApp/obj/Debug/net6.0/ref/CalculatorApp.dll
